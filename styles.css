@@ -1,0 +1,41 @@
+@charset "utf-8";
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(176,254,255,1.00) 0%,rgba(255,255,255,1.00) 52.85%,rgba(172,241,245,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(176,254,255,1.00) 0%,rgba(255,255,255,1.00) 52.85%,rgba(172,241,245,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(176,254,255,1.00) 0%,rgba(255,255,255,1.00) 52.85%,rgba(172,241,245,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(176,254,255,1.00) 0%,rgba(255,255,255,1.00) 52.85%,rgba(172,241,245,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(215,236,244,1.00) 0%,rgba(199,255,227,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(215,236,244,1.00) 0%,rgba(199,255,227,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(215,236,244,1.00) 0%,rgba(199,255,227,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(215,236,244,1.00) 0%,rgba(199,255,227,1.00) 100%);
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #22A2E2;
+}
+.card.col-md-4.col-lg-12 .card-body .btn.btn-primary {
+    background-color: #19C9B0;
+    color: #7356F9;
+}
+#accordion1 .card #headingOne1 {
+    background-color: #D0FAEB;
+}
+#accordion1 .card #headingTwo1 {
+    background-color: #C6FAFF;
+}
+#accordion1 .card #headingThree1 {
+    background-color: #B9FFF8;
+}
+#headingOne1 .mb-0 a {
+    color: #46677B;
+}
+#headingTwo1 .mb-0 .collapsed {
+    color: #405167;
+}
+#headingThree1 .mb-0 .collapsed {
+    color: #48546F;
+}
+.container-fluid .container footer {
+    color: #020202;
+}
